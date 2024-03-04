@@ -12,7 +12,7 @@ date: 2024-03-05
 +fps_max 0 -novid
 ```
 #### 設定檔下載
-- [高清材質紋理，全域陰影關閉](../../public/Game-Configs/Apex/high_graph-shadow_disable/videoconfig.txt)
-- [高清材質紋理，全域陰影開啟](../../public/Game-Configs/Apex/high_graph-shadow_enable/videoconfig.txt)
-- [低清材質紋理，全域陰影關閉](../../public/Game-Configs/Apex/low_graph-shadow_disable/videoconfig.txt)
-- [低清材質紋理，全域陰影開啟](../../public/Game-Configs/Apex/low_graph-shadow_enable/videoconfig.txt)
+- [高清材質紋理，全域陰影關閉](../../Game-Configs/Apex/high_graph-shadow_disable/videoconfig.txt)
+- [高清材質紋理，全域陰影開啟](../../Game-Configs/Apex/high_graph-shadow_enable/videoconfig.txt)
+- [低清材質紋理，全域陰影關閉](../../Game-Configs/Apex/low_graph-shadow_disable/videoconfig.txt)
+- [低清材質紋理，全域陰影開啟](../../Game-Configs/Apex/low_graph-shadow_enable/videoconfig.txt)
